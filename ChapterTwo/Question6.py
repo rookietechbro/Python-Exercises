@@ -7,6 +7,6 @@ print("Enter a number and I will determine if it is odd or even.")
 number = int(input("Number: "))
 if number % 2 == 0:
     print("This is an even number")
-if number % 2 == 1:
+else:
     print("This is an odd number")
 
