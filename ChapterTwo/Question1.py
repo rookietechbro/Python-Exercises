@@ -5,9 +5,8 @@
 # 3. print('x =')
 # 4. print((x + y), 'x =', (y + x))
 
-#Solution
-#1. x = 2
-#2. Value of 2 + 2 is 4
-#3. x =
-#4. 5 x = 5
-
+# Solution
+# 1. x = 2
+# 2. Value of 2 + 2 is 4
+# 3. x =
+# 4. 5 x = 5

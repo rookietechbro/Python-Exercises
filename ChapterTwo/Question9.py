@@ -11,7 +11,7 @@
 #the space character.
 
 
-print(ord('B'),ord('C'),ord('D'),ord('b'),ord('c'),ord('d'),ord('0'), ord('1'),ord('2'),ord('$'),ord('*'),ord('+'),ord(' ') )
+print(ord('B'), ord('C'), ord('D'), ord('b'), ord('c'), ord('d'), ord('0'), ord('1'), ord('2'), ord('$'), ord('*'), ord('+'), ord(' '))
 
 #solution
 #66 67 68 98 99 100 48 49 50 36 42 43 32

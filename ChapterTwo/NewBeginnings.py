@@ -12,9 +12,6 @@ if number1 < number2:
 if number1 > number2:
     print(number1, "is greater than", number2)
 if number1 <= number2:
-    print(number1,"is less than or equals to", number2)
+    print(number1, "is less than or equals to", number2)
 if number1 >= number2:
-    print(number1,"is greater than or equals to", number2, "\n")
-
-
-
+    print(number1, "is greater than or equals to", number2, "\n")

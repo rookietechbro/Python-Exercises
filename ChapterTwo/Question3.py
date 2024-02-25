@@ -6,7 +6,7 @@
 #***
 
 
-grade = int(input("Enter a grade between 0 and 100"))
+grade = int(input("Enter a grade between 0 and 100:"))
 if grade >= 90:
     print("Congratulations! Your\
-grade of 91 earns you an A in this course")
+ grade of 91 earns you an A in this course")

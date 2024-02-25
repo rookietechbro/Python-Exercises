@@ -10,4 +10,4 @@ if number % 2 == 0:
 else:
     print("This is an odd number")
 
-# rewwrite this using if-else
+
