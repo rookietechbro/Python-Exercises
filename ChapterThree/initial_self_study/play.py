@@ -3,5 +3,5 @@ for count in 'Onyii':
     print(count)
 for count in 'Onyii':
     print(count, end="  ")
-for count in 'Onyii':
-    print(count, sep=' ,')
+for appl in 'Onyii':
+    print(appl, sep=' ')
